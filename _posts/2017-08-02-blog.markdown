@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "HelloJS Blog 開張!"
+categories: tutorial
+tags: [tutorial, markdoen]
+no-post-nav: true
+---
+
+## HelloJS 開張啦! (<ゝω・) 
+
+這邊會用來蒐集學員們的心得、和結訓時的得獎作品
+
+去年文章:
+
+- [HelloJs 學員心得總覽](http://trunk-studio.com/blog/hellojs-xue-yuan-xin-de-zong-lan/)
+
+- [HelloJs 成果競賽名次公布](http://trunk-studio.com/blog/hellojs-cheng-guo-jing-sai-ming-ci-gong-bu/)
+
+## Blog 教學
+
+### 檔案位置
+
+```
+_posts/   底下的 HelloJS 年度資料夾
+
+EX: 我是 2017 HelloJS 的學員
+_posts/2017
+```
+
+### 檔案名稱
+
+```
+2017-08-02-blog.markdown
+[ 日期 ][文章名稱][ 副檔名為 markdown ]
+
+如果"文章名稱"有多段或空格，請以 "-" 隔開
+EX: Hello-World, Big-Boss
+```
+
+### 開頭
+```
+---
+layout: post                      - 模板，統一選 post 吧!，除非有大大想要自己寫
+title:  "HelloJS Blog 開張!"      - 文章 title
+categories: tutorial              - 文章分類
+tags: [tutorial, markdoen]        - 文章標籤
+no-post-nav: true                 - 左邊的欄位
+---
+```
+
+### 內文
+
+就 Markdown 
+
+(つ´ω`)つ 就跟寫 README.md 一樣簡單
+
+### 如何參與
+
+發 PR
+
+1. fork 專案 https://github.com/hellojs-tw/blog
+2. clone 下來添加心得
+3. 發PR
+4. 等 Merge 
+
