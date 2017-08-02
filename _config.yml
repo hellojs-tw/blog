@@ -57,7 +57,7 @@ paginate_path: 'page:num'
 navs:
 
   -
-    href: /
+    href: /blog
     label: Home
 
   # -
@@ -65,7 +65,7 @@ navs:
     # label: Open-Source
 
   -
-    href: /blog
+    href: /blog/blog
     label: Blog
 
   # -
@@ -73,7 +73,7 @@ navs:
     # label: Bookmark
 
   -
-    href: /about
+    href: /blog/about
     label: About
 
 # Sidebar to show popular repo
