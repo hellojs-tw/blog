@@ -1,76 +1,25 @@
 <div class="about row">
 
-    <div class="col-md-8">
+    <div class="col-md-12">
 
-        <h2>About me</h2>
 
-        <p>BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla</p>
+        <h2>立即成為 WEB 開發者</h2>
 
-        <h2>Contact</h2>
+        <p>HelloJS 訓練營由 Trunk Studio 專為有志踏入 WEB 領域的學生打造，聯合多年來的業界夥伴共同營運。我們以業界實戰與培訓經驗為基礎，總結出最適合新手入門的 JavaScript 課程，目的在於打破『不知道如何開始』的循環，為你打造一個『能夠自學的自己』。</p>
 
-        <ul>
-            <li>Email：<a href="mailto:{{ site.email }}" target="_top">{{ site.email }}</a></li>
-            <li>GitHub：<a href="{{ site.github_url }}">{{ site.github_url }}</a></li>
-        </ul>
 
-        <h2>Skill Keywords</h2>
+        <h2>活動官網:</h2>
 
-        {% if site.skill_software_keywords %}
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title">Software Engineer Keywords</h3>
-            </div>
-            <div class="panel-body">
-                {% for keyword in site.skill_software_keywords %}
-                <button class="btn btn-default" type="button">{{ keyword }}</button>
-                {% endfor %}
-            </div>
-        </div>
-        {% endif %}
+        <a href="https://hellojs.school/" target="_blank">HelloJS-JavaScript暑期苦幹實做訓練營</a>
 
-        {% if site.skill_j2ee_keywords %}
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title">J2EE Developer Keywords</h3>
-            </div>
-            <div class="panel-body">
-                {% for keyword in site.skill_j2ee_keywords %}
-                <button class="btn btn-default" type="button">{{ keyword }}</button>
-                {% endfor %}
-            </div>
-        </div>
-        {% endif %}
+        <h2>教材目錄:</h2>
 
-        {% if site.skill_mobile_app_keywords %}
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title">Mobile Developer Keywords</h3>
-            </div>
-            <div class="panel-body">
-                {% for keyword in site.skill_mobile_app_keywords %}
-                <button class="btn btn-default" type="button">{{ keyword }}</button>
-                {% endfor %}
-            </div>
-        </div>
-        {% endif %}
+        <a href="http://2017.hellojs.school/" target="_blank">2017-summer-camp</a>
 
-        {% if site.skill_web_keywords %}
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title">Web Developer Keywords</h3>
-            </div>
-            <div class="panel-body">
-                {% for keyword in site.skill_web_keywords %}
-                <button class="btn btn-default" type="button">{{ keyword }}</button>
-                {% endfor %}
-            </div>
-        </div>
-        {% endif %}
+        <h2>公司官網:</h2>
 
-    </div>
+        <a href="http://trunk-studio.com/" target="_blank">Trunk Studio</a>
 
-    <div class="col-md-4">
-        {% include sidebar-popular-repo.html %}
     </div>
 
 </div>
