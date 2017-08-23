@@ -1,4 +1,4 @@
-<h3 class="sidebar-title">My Popular Repositories</h3>
+<h3 class="sidebar-title">Our Blog Repository</h3>
 {% assign sorted_repos = (site.github.public_repositories | grep 'blog' ) %}
 {% for repo in sorted_repos | limit: site.side_bar_repo_limit %}
 {% if repo.name == 'blog' %}

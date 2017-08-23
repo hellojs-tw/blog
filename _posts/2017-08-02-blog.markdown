@@ -24,7 +24,7 @@ no-post-nav: true
 _posts/   底下的 HelloJS 年度資料夾
 
 EX: 我是 2017 HelloJS 的學員
-_posts/2017
+_posts/2017/
 ```
 
 ### 檔案名稱
