@@ -2,8 +2,8 @@
 layout: post
 title:  "HelloJS JS 專題競賽&心得獎勵!"
 categories: HelloJS
-tags: [專題競賽, 心得]
-no-post-nav: false
+tags: [project, feedback]
+no-post-nav: true
 ---
 
 # 專題競賽
@@ -52,6 +52,10 @@ _posts/   底下的 HelloJS 年度資料夾
 EX: 我是 2017 HelloJS 的學員
 _posts/2017/
 ```
+
+上方的設定
+
+categories 跟 tags 統一都使用 `feedback`
 
 還有發文格式和檔名也都要照規定歐~
 

@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "心得範例"
+categories: feedback
+tags: [feedback, example, tutorial]
+no-post-nav: flase
+---
+
+# Title
+
+## title 1 (・ε・) 
+
+### 發文 Tips:
+
+- 語法使用 Markdown，可以先在 [HackMD](https://hackmd.io/) 寫完後直接貼過來
+
+- 上方的 `categories` 跟 `tags` 統一都使用 `feedback` 
+
+- 如果想看這頁的原始碼 [請點這]()
+
+- 還是有障礙就直接複製這個下去改吧!
+
+## title 2 ─=≡Σ((( つ•̀ω•́ )つ
+## title 3 (ﾟ∀ﾟ)
+## title 4 (つд⊂)
+## title 5 (›´ω`‹ )
+
+
+

@@ -3,7 +3,7 @@ layout: post
 title:  "HelloJS Blog 開張!"
 categories: tutorial
 tags: [tutorial, markdoen]
-no-post-nav: true
+no-post-nav: false
 ---
 
 ## HelloJS 開張啦! (<ゝω・) 
@@ -42,9 +42,9 @@ EX: Hello-World, Big-Boss
 ---
 layout: post                      - 模板，統一選 post 吧!，除非有大大想要自己寫
 title:  "HelloJS Blog 開張!"      - 文章 title
-categories: tutorial              - 文章分類
-tags: [tutorial, markdoen]        - 文章標籤
-no-post-nav: true                 - 左邊的欄位
+categories: feedback              - 文章分類，統一選 feedback
+tags: [feedback]                  - 文章標籤, 僅限英文，統一選 feedback
+no-post-nav: true                 - 左邊的欄位, false 時為開啟 (ﾟдﾟ)
 ---
 ```
 
