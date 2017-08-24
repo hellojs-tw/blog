@@ -1,29 +1,30 @@
 ---
 layout: post
-title:  "心得範例"
+title:  "2017Hellojs心得"
 categories: feedback
 tags: [feedback, example, tutorial]
 no-post-nav: false
 ---
 
-# ( ～'ω' )～
+# Hellojs八周學習心得
 
-## title 1 (・ε・) 
+### 學習技術統整:
 
-### 發文 Tips:
+- Git&Slack
 
-- 語法使用 Markdown，可以先在 [HackMD](https://hackmd.io/) 寫完後直接貼過來
+- BootStrape 
 
-- 上方的 `categories` 跟 `tags` 統一都使用 `feedback` 
+- JaveScript
 
-- 如果想看這頁的原始碼 [請點這](https://raw.githubusercontent.com/hellojs-tw/blog/master/_posts/2017/2017-08-23-example.markdown)
+- ReactJs
+- React Native
+## 心得
+很幸運暑假可以參加HelloJs的課程，每次上課都是新的開始。因為自己是文組沒接觸過，學習起來蠻吃力。不過身邊的助教和夥伴都很好心，願意幫助我。上完課想複習上課內容，也有貼心的小幫手幫忙整理好。在這裡不只可以學習也能認識朋友。
+## 上課內容
+每堂上課的講師都很認真講解很多觀念要很專心聽。不然很容易錯過，而跟不上課的速度。每上課到一個小段落，會有小練習可以複習剛剛學到的內容。如果上課中卡關，身邊的助教也會幫忙。
+## 後記
+當初為了專題而來報名，學習過程中蠻挫折。最後上課結束後，要和組員做出專案。我真的嚇壞了，以前大學修程式課都是混過去。經過課程洗禮，改變我寫程式的態度。雖然自己蠻廢，拖累組員的進度。值得慶幸的是我遇到很棒組員願意包容我，不然我只能對著程式QQ且專案gg
 
-- 還是有障礙就直接複製這個下去改吧!
-
-## title 2 ─=≡Σ((( つ•̀ω•́ )つ
-## title 3 (ﾟ∀ﾟ)
-## title 4 (つд⊂)
-## title 5 (›´ω`‹ )
 
 
 
