@@ -61,20 +61,24 @@ _posts/2017/
 
 categories 跟 tags 統一都使用 `feedback`
 
-※ HelloJS 心得 請將文章名稱改成自己 id
+※ HelloJS 心得 請將文章檔案名最後加上自己 id，別忘了用 "-" 隔開歐~
 
-EX: 2017-08-26-vagrant.markdown
+EX:
+
+```
+2017-08-26-experience-vagrant.markdown
+2017-08-26-vagrant.markdown
+```
 
 ※ HelloJS 心得 請讓 id 放在 title 最後，標題則沒限制
 
 EX: 
+
+```
 title: "2017Hellojs心得 - vagrant"
-
 title: "2017Hellojs暑期苦幹實做訓練營心得 - vagrant"
-
 title: "2017HellojsFeedback - vagrant"
-
-
+```
 
 還有發文格式和檔名也都要照規定歐~
 

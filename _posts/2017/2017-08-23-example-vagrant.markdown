@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "心得範例"
+title:  "心得範例 - vagrant"
 categories: feedback
 tags: [feedback, example, tutorial]
 no-post-nav: false
