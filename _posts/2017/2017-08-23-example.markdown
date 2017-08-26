@@ -24,6 +24,3 @@ no-post-nav: false
 ## title 3 (ﾟ∀ﾟ)
 ## title 4 (つд⊂)
 ## title 5 (›´ω`‹ )
-
-
-
