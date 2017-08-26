@@ -37,6 +37,10 @@ _posts/2017/
 EX: Hello-World, Big-Boss
 ```
 
+※ HelloJS 心得 請將文章名稱改成自己 id
+
+EX: 2017-08-26-vagrant.markdown
+
 ### 開頭
 ```
 ---
@@ -47,6 +51,13 @@ tags: [feedback]                  - 文章標籤, 僅限英文，統一選 feedb
 no-post-nav: true                 - 左邊的欄位, false 時為開啟 (ﾟдﾟ)
 ---
 ```
+
+※ HelloJS 心得 請讓 id 放在 title 最後，標題則沒限制
+
+EX: 
+title: "2017Hellojs心得 - vagrant"
+title: "2017Hellojs暑期苦幹實做訓練營心得 - vagrant"
+title: "2017HellojsFeedback - vagrant"
 
 ### 內文
 

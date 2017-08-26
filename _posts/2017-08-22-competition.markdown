@@ -3,10 +3,10 @@ layout: post
 title:  "HelloJS JS 專題競賽&心得獎勵!"
 categories: HelloJS
 tags: [project, feedback]
-no-post-nav: true
+no-post-nav: false
 ---
 
-# 專題競賽
+## 專題競賽
 
 HelloJS 最後一周的 分組專案成果發表
      
@@ -19,13 +19,13 @@ HelloJS 最後一周的 分組專案成果發表
 - 第二名：$3000元
 
 
-# 心得
+## 心得
 
 繳交日期: 2017/8/29 晚上(12 點前)
 
 心得文 字數 300 字以上，內文需包含課程相關內容、心得或感想
 
-## 獎勵狀況如下：
+### 獎勵狀況如下：
 
 - 特優 - 1名 $100 禮券五張
 
@@ -33,7 +33,7 @@ HelloJS 最後一周的 分組專案成果發表
 
 - 佳作 - 15 名 $100 禮券壹張
 
-## 如何參與
+### 如何參與
 
 請參考 [HelloJS Blog 開張!](https://hellojs-tw.github.io/blog/tutorial/2017/08/02/blog.html) 之發文教學
 
@@ -43,6 +43,10 @@ HelloJS 最後一周的 分組專案成果發表
 2. clone 下來添加心得
 3. 發PR
 4. 等 Merge
+
+
+
+### 特別注意!!
 
 記得依照教學所說的將文章放於指定位置
 
@@ -57,7 +61,24 @@ _posts/2017/
 
 categories 跟 tags 統一都使用 `feedback`
 
+※ HelloJS 心得 請將文章名稱改成自己 id
+
+EX: 2017-08-26-vagrant.markdown
+
+※ HelloJS 心得 請讓 id 放在 title 最後，標題則沒限制
+
+EX: 
+title: "2017Hellojs心得 - vagrant"
+
+title: "2017Hellojs暑期苦幹實做訓練營心得 - vagrant"
+
+title: "2017HellojsFeedback - vagrant"
+
+
+
 還有發文格式和檔名也都要照規定歐~
+
+這些注意事項也都在 [HelloJS Blog 開張!](https://hellojs-tw.github.io/blog/tutorial/2017/08/02/blog.html) 中有提到
 
 有任何問題歡迎到 Slack 發問
 
