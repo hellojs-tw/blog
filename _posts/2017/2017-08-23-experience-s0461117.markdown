@@ -12,7 +12,7 @@ no-post-nav: false
 
 - Git&Slack
 
-- BootStrape 
+- BootStrap 
 
 - JaveScript
 
