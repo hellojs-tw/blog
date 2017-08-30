@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello JS 學習心得 - William "
 categories: feedback
-tags: [feedback, tutorial]
+tags: [feedback]
 no-post-nav: false
 ---
 
