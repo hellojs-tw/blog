@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "2017Hellojs心得"
+title:  "心得"
 categories: feedback
-tags: [feedback]
-no-post-nav:true
+tags: [feedback, example, tutorial]
+no-post-nav: false
 ---
+
+
 HelloJS期末心得-化學人初探編程之路
 ====
 
