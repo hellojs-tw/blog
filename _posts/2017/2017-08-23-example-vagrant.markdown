@@ -16,7 +16,7 @@ no-post-nav: false
 
 - 上方的 `categories` 跟 `tags` 統一都使用 `feedback` 
 
-- 如果想看這頁的原始碼 [請點這](https://raw.githubusercontent.com/hellojs-tw/blog/master/_posts/2017/2017-08-23-example.markdown)
+- 如果想看這頁的原始碼 [請點這](https://raw.githubusercontent.com/hellojs-tw/blog/master/_posts/2017/2017-08-23-example-vagrant.markdown)
 
 - 還是有障礙就直接複製這個下去改吧!
 
