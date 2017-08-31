@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2017Hellojs心得"
+title:  "2017 HelloJS 暑期苦幹實做訓練營心得 - kaya"
 categories: feedback
 tags: [feedback, example, tutorial]
 no-post-nav: false
 ---
 
-# Hellojs八周學習心得
+# HelloJS 八周學習心得
 
 ###上課情形
 我每個禮拜都會忍不住期待講師是誰，因為除了創科厲害的講師以外，有時還會請到常在社群出沒開課的大大。每個講師上課時句句都是重要的觀念，4 個小時內都盡可能的教好教滿，所以真的要很專心聽，不然一晃神就很容易讓進度飛走了(> <)
