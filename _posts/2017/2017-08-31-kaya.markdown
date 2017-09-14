@@ -2,7 +2,7 @@
 layout: post
 title:  "2017 HelloJS 暑期苦幹實做訓練營心得 - kaya"
 categories: feedback
-tags: [feedback, example, tutorial]
+tags: [feedback]
 no-post-nav: false
 ---
 

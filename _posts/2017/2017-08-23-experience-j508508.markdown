@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "2017Hellojs心得"
+title:  "2017Hellojs心得 - j508508"
 categories: feedback
-tags: [feedback, example, tutorial]
+tags: [feedback]
 no-post-nav: false
 ---
 
@@ -12,7 +12,7 @@ no-post-nav: false
 
 - Git&Slack
 
-- BootStrape 
+- Bootstrap 
 
 - JaveScript
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2017Hellojs心得"
+title:  "2017Hellojs心得 - ji40709"
 categories: feedback
 tags: [feedback]
 no-post-nav: true
@@ -12,7 +12,7 @@ no-post-nav: true
 
 - Git&Slack
 
-- BootStrape 
+- Bootstrap 
 
 - JaveScript
 
@@ -23,6 +23,6 @@ no-post-nav: true
 這兩個月算是學到很多，因為學校只教java跟C++，而且教的很淺，大二下的手機app開發竟然是教App Inventor，去了一節直接退選XD。在這裡學到目前主流的工具，我覺得收穫很多。
 ## 上課內容
 因為只有在學校上過php跟css(學校有夠爛)，所以有點跟不上講師學的速度，環境或是小地方稍微卡住一下就後面就跟不上了，這時候上課的錄影就派上用場啦~!，幸好回家可以複習不然會很慘XD。
-我覺得BootStrape跟React Native讓我學到很多，可以很快的實際應用，算是這兩個月來的最大收穫!
+我覺得Bootstrap跟React Native讓我學到很多，可以很快的實際應用，算是這兩個月來的最大收穫!
 ## 後記
 其實這段時間有個很大的問題是環境XD，VM常常出問題，Genymotion也是問題一大堆，在弄專案的時候還沒開始寫code，環境就先搞掉一整晚，俗話說的好，最難的不是code，而是環境啊~~XD

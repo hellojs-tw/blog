@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "心得"
+title:  "心得 - miss960916"
 categories: feedback
-tags: [feedback, example, tutorial]
+tags: [feedback]
 no-post-nav: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "2017Hellojs心得"
+title:  "2017Hellojs心得 - HsuLavit"
 categories: feedback
-tags: [feedback, example, tutorial]
+tags: [feedback]
 no-post-nav: false
 ---
 
@@ -12,7 +12,7 @@ no-post-nav: false
 
 - Git&Slack
 
-- BootStrape 
+- Bootstrap 
 
 - JaveScript
 
@@ -22,6 +22,6 @@ no-post-nav: false
 ## 心得
 Hi,我是Lavit 這次很高興能夠參加Hellojs的課程，課程內容相當豐富且多元，由於課程內容太多很多東西都要自己回家多多研究，不過講師真的講的都很精彩！透過這次的過程清楚的讓我了解到JaveScript的領域是多麼的多元，讓我知道自己還有很多很多的努力方向及空間可以在未來一一實踐！
 ## 上課內容
-BootStrape JaveScript React 只有BootStrape是是我可能比較容易上容易上手的領域 其他待加強
+Bootstrap JaveScript React 只有Bootstrap是是我可能比較容易上容易上手的領域 其他待加強
 ## 後記
 這次我們做了桐花地圖-浪漫台三線 App 但還有些功能尚未齊全待補上 !
