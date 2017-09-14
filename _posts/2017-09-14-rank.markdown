@@ -6,6 +6,7 @@ tags: [project, rank]
 no-post-nav: false
 ---
 
+# HelloJS JS 專題競賽名次公布!
 
 在為期兩個月的 #2017 #HelloJs Web 工程師訓練營的最後一週，學員們完成了很精彩的、從零開始的分組專案開發競賽，期間內大家需要共同發想產品，然後協力開發、分工合作，最後還要製作簡報與進行宣傳，大家都辛苦啦！
 
@@ -17,9 +18,9 @@ no-post-nav: false
 
 ---
 
-![照片](/assets/images/2017/1.jpg)
+![照片]({{ site.url }}/assets/images/2017/1.jpg)
 
-### 第一名:
+## 第一名:
 
 - 拉霸 ETH（組別 ncueIM）
 
@@ -27,9 +28,9 @@ no-post-nav: false
 
 ---
 
-### 第二名:
+## 第二名:
 
-![照片](/assets/images/2017/2.jpg)
+![照片]({{ site.url }}/assets/images/2017/2.jpg)
 
 - 浪漫臺三線（組別 DeadlineClub）
 
