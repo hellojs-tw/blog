@@ -18,9 +18,9 @@ no-post-nav: false
 
 ---
 
-![照片]({{ site.url }}/assets/images/2017/1.jpg)
-
 ## 第一名:
+
+![照片]({{ site.url }}/assets/images/2017/1.jpg)
 
 - 拉霸 ETH（組別 ncueIM）
 
